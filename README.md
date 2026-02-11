@@ -25,8 +25,11 @@ Value at Risk (VaR) at 95% and 99%
 🔹 Formulas Used-
 
 Daily Return = (Current Close - Previous Close) / Previous Close
+
 Beta = Covariance (Stock, Market) / Variance (Market)
+
 Treynor Ratio = (Return - Risk Free Rate) / Beta
+
 Value at Risk(99%) = Mean - (2.33 × Standard Deviation)
 
 🔹 Key Insights
